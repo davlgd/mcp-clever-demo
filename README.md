@@ -8,14 +8,9 @@ To use this server in an MCP client such as Claude Desktop:
 
 ```json
 {
-  "mcpCleverDemo": {
-    "filesystem": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "mcp-clever-demo",
-      ]
-    }
+  "mcp-clever-demo": {
+    "command": "npx",
+    "args": [ "-y", "mcp-clever-demo" ]
   }
 }
 ```
