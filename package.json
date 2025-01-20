@@ -1,6 +1,6 @@
 {
   "name": "mcp-clever-demo",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "bin": {
     "mcp-clever-demo": "src/server.js"
   },
