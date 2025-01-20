@@ -1,0 +1,16 @@
+{
+  "name": "mcp-clever-demo",
+  "version": "0.1.6",
+  "bin": {
+    "mcp-clever-demo": "src/server.js"
+  },
+  "author": "davlgd",
+  "license": "MIT",
+  "repository": "github:davlgd/mcp-clever-demo",
+  "keywords": [ "javascript", "mcp", "server", "stdio", "clever cloud" ],
+  "type": "module",
+  "description": "This MCP demo Server based on the JS SDK, exposing Clever Cloud's Tools",
+  "dependencies": {
+    "mcp-js-server": "^0.1.3"
+  }
+}
